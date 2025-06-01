@@ -17,7 +17,7 @@
 - Extract Jitterbugpair archive → Launch executable file → Trust this PC/Mac and enter you passcode → Launch executable file again
 - Move now created .mobiledevicepairing file to your iDevice with any way available
 ### 4. Enable JIT with StikDebug
--- Download StikDebug from the App Store.
+- Download StikDebug from the App Store.
 - Open StikDebug → Select Pairing File and choose .mobiledevicepairing file that you created.
 - Also allow StikDebug to Add VPN Configurations. (You can turn off VPN via iOS settings when you don't use Geode)
 ### 5. Launching Geode.
@@ -27,6 +27,9 @@
 - Install GDPS Switcher on Geode → Restart
 - Open GDPS Switcher → Tap on "New" button
 - In Server Name type WorstGDPS or whatever
-- In Server URL type any URL you can find on https://discord.com/channels/932626278228570153/1055920332428550254/1269758909602726009
+- In Server URL type any URL from the list:
+146.59.93.5/database123456
+146.59.93.5/database1234567
+146.59.93.5/database/requestRedirects
 - Tap on Save → Select WorstGDPS → Restart
 ## DONE!
