@@ -28,8 +28,12 @@
 - Open GDPS Switcher → Tap on "New" button
 - In Server Name type WorstGDPS or whatever
 - In Server URL type any URL from the list:
-146.59.93.5/database123456
-146.59.93.5/database1234567
-146.59.93.5/database/requestRedirects
+  
+ 146.59.93.5/database123456
+  
+ 146.59.93.5/database1234567
+ 
+ 146.59.93.5/database/requestRedirects
+ 
 - Tap on Save → Select WorstGDPS → Restart
 ## DONE!
